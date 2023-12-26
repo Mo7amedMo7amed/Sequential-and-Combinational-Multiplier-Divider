@@ -1,0 +1,37 @@
+
+
+
+
+  Divide by zero has not detected =>    DIVIDER EEROR! 590 ns  The divisor: 6  The dividend: 0  The expected quotient: 0  The actual sequential quotient: -1  The actual combinational quotient: -1  The expected reminder: 6  The actual sequential reminder: 6  The actual combinational reminder: 6
+
+
+
+  Divide by zero has not detected =>    DIVIDER EEROR! 1190 ns  The divisor: 0  The dividend: 0  The expected quotient: 0  The actual sequential quotient: -1  The actual combinational quotient: -1  The expected reminder: 0  The actual sequential reminder: 0  The actual combinational reminder: 0
+
+
+  DIVIDER EEROR! 1670 ns  The divisor: 10  The dividend: 1  The expected quotient: 10  The actual sequential quotient: 10  The actual combinational quotient: 0  The expected reminder: 0  The actual sequential reminder: 0  The actual combinational reminder: 0
+  DIVIDER EEROR! 1830 ns  The divisor: 14  The dividend: -1  The expected quotient: -14  The actual sequential quotient: -14  The actual combinational quotient: -12  The expected reminder: 0  The actual sequential reminder: 0  The actual combinational reminder: 0
+  DIVIDER EEROR! 1990 ns  The divisor: 11  The dividend: 2  The expected quotient: 5  The actual sequential quotient: 5  The actual combinational quotient: 1  The expected reminder: 1  The actual sequential reminder: 1  The actual combinational reminder: 1
+
+
+
+
+
+  Divide by zero has not detected =>    DIVIDER EEROR! 2910 ns  The divisor: 0  The dividend: 0  The expected quotient: 0  The actual sequential quotient: -1  The actual combinational quotient: -1  The expected reminder: 0  The actual sequential reminder: 0  The actual combinational reminder: 0
+
+
+
+
+
+
+
+  DIVIDER EEROR! 4090 ns  The divisor: -5  The dividend: 2  The expected quotient: -2  The actual sequential quotient: -2  The actual combinational quotient: 0  The expected reminder: -1  The actual sequential reminder: -1  The actual combinational reminder: -1
+
+
+
+
+
+  DIVIDER EEROR! 4990 ns  The divisor: -9  The dividend: 4  The expected quotient: -2  The actual sequential quotient: -2  The actual combinational quotient: 0  The expected reminder: -1  The actual sequential reminder: -1  The actual combinational reminder: -1
+
+  DIVIDER EEROR! 5290 ns  The divisor: -9  The dividend: -2  The expected quotient: 4  The actual sequential quotient: 4  The actual combinational quotient: 0  The expected reminder: -1  The actual sequential reminder: -1  The actual combinational reminder: -1
+1x11 01x00 1 The passed testcases: 26 from total testcases: 35

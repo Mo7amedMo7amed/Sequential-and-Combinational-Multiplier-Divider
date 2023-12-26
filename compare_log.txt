@@ -1,0 +1,37 @@
+
+
+
+
+
+
+
+
+
+
+
+ NOT EQUAL OUTPUT EEROR!  1670 ns  The sequential divider output:  320  The combinational divider output: 0
+ NOT EQUAL OUTPUT EEROR!  1830 ns  The sequential divider output:  -448  The combinational divider output: -384
+ NOT EQUAL OUTPUT EEROR!  1990 ns  The sequential divider output:  161  The combinational divider output: 33
+
+
+
+
+
+
+
+
+
+
+
+
+3930 ns   Divide by zero signals are not equal:   10
+ NOT EQUAL OUTPUT EEROR!  4090 ns  The sequential divider output:  -33  The combinational divider output: 314090 ns   Divide by zero signals are not equal:   10
+4250 ns   Divide by zero signals are not equal:   10
+
+4550 ns   Divide by zero signals are not equal:   10
+
+
+ NOT EQUAL OUTPUT EEROR!  4990 ns  The sequential divider output:  -33  The combinational divider output: 314990 ns   Divide by zero signals are not equal:   10
+
+ NOT EQUAL OUTPUT EEROR!  5290 ns  The sequential divider output:  159  The combinational divider output: 315290 ns   Divide by zero signals are not equal:   10
+
