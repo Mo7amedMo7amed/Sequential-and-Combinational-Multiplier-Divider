@@ -6,6 +6,7 @@ USE ieee.numeric_bit.ALL;
 use IEEE.std_logic_arith.all;
 use IEEE.numeric_std.all;
 use IEEE.std_logic_signed.all;
+ -- This is another comment for the git 
  -- Combinational designs
 entity comp is
 
