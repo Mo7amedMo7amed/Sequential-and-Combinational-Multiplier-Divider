@@ -1,5 +1,5 @@
--- This mini project is done during the ITI diplome in digital verification track 
-   Contents files 
+-- This mini project is done during the ITI diploma at digital verification track 
+   Files Contents  
    1- Combinational multiplier/divider -> edit2.vhd
    2- Sequential multiplier/divider -> seq_mult_final.vhd
    3- Simple Testbench architecture -> tb.vhd  
